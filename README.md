@@ -1,4 +1,4 @@
-<span style="color: green"> # SkalkaUnlocker </span>
+# SkalkaUnlocker
 project is in beta version
 
 site - http://cheatlist.online
