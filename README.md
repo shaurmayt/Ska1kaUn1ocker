@@ -1,7 +1,7 @@
 # SkalkaUnlocker
 project is in beta version
 
-site - http://cheatlist.online
+site - http://skalkaunlocker.pro
 
 ![b7ee2cdd76786da46e9cb37e186786ce](https://github.com/user-attachments/assets/4a7235a0-58bd-4737-abe8-9fd133e9917c)
 ![orig](https://github.com/user-attachments/assets/1f7e87cd-8d12-45fb-b4ea-de3fbf340ca8)
