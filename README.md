@@ -1,7 +1,5 @@
 # SkalkaUnlocker
 
-[![SkalkaUnlocker Logo](https://github.com/user-attachments/assets/4a7235a0-58bd-4737-abe8-9fd133e9917c)](http://skalkaunlocker.pro)
-
 ### Version: Beta
 
 - SkalkaUnlocker — это мощная утилита для разблокировки вашего ПК, пораженного вирусами. Простое и интуитивное решение для восстановления контроля над системой.
@@ -21,7 +19,11 @@
 
 [Официальный сайт http://skalkaunlocker.pro](http://skalkaunlocker.pro)
 
+---
+
 ## Галерея
+
+[![SkalkaUnlocker Logo](https://github.com/user-attachments/assets/4a7235a0-58bd-4737-abe8-9fd133e9917c)](http://skalkaunlocker.pro)
 
 ![Пример работы SkalkaUnlocker](https://github.com/user-attachments/assets/1f7e87cd-8d12-45fb-b4ea-de3fbf340ca8)
 
