@@ -17,7 +17,7 @@
 
 ## Сайт проекта
 
-[Официальный сайт http://skalkaunlocker.pro](http://skalkaunlocker.pro)
+- [Официальный сайт http://skalkaunlocker.pro](http://skalkaunlocker.pro)
 
 ---
 
