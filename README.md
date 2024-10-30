@@ -18,13 +18,3 @@ SkalkaUnlocker — это мощная утилита для разблокир�
 ## Сайт проекта
 
 Официальный сайт - [ТЫК](http://skalkaunlocker.pro)
-
----
-
-## Галерея
-
-[![SkalkaUnlocker Logo](https://github.com/user-attachments/assets/4a7235a0-58bd-4737-abe8-9fd133e9917c)](http://skalkaunlocker.pro)
-
-[![Пример работы SkalkaUnlocker](https://github.com/user-attachments/assets/1f7e87cd-8d12-45fb-b4ea-de3fbf340ca8)](http://skalkaunlocker.pro)
-
-[![Интерфейс программы](https://github.com/user-attachments/assets/2b896781-1bdf-4a4d-b144-0e8db1d54480)](http://skalkaunlocker.pro)
