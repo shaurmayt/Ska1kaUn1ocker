@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Bytehide.Shield.Integration.props" />
-</Project>
